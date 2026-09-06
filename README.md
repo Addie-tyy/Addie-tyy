@@ -3,7 +3,7 @@
 
 📫 How to reach me: **aditisinha4791@gmail.com**
 
-💞 I’m interested in: **Data Science and Machine learning**
+💞 I’m interested in: **Data Science, ML & Analytics**
 
 🤝 Let's connect **https://www.linkedin.com/in/aditi-sinha-addietyy/**
 
