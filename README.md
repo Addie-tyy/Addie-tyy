@@ -1,4 +1,4 @@
-<h1 align="center">Hello visitors 👋</h1>
+# Hello visitors
 👋 I’m Aditi Sinha a.k.a Addie
 
 📫 How to reach me: **aditisinha4791@gmail.com**
