@@ -1,8 +1,6 @@
 # Hello visitors 👋
 
-I'm **Aditi Sinha** (a.k.a. **Addie**).
-
----
+I'm **Aditi Sinha**
 
 - 💖 **Interested in:** Data Science, ML & Analytics
 - 📬 **Email:** [aditisinha4791@gmail.com](mailto:aditisinha4791@gmail.com)
